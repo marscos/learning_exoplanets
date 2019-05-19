@@ -3,3 +3,5 @@
 - https://en.wikipedia.org/wiki/Cross-validation_(statistics)
 - https://scikit-learn.org/stable/modules/cross_validation.html
 - https://stats.stackexchange.com/questions/180827/model-construction-when-to-shuffle-data-and-when-to-sort-it
+- https://scikit-learn.org/stable/modules/tree.html
+- https://stackoverflow.com/questions/2314850/help-understanding-cross-validation-and-decision-trees

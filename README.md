@@ -8,9 +8,9 @@ O problema abordado é o da classificação de exoplanetas identificados pela so
 Serão explorados os seguintes métodos de classificação:
 - [x] **Naive Bayes**
     - [x] Apenas um experimento, para servir de baseline.
-- [ ] **Decision Tree**
-    - [ ] Variação de altura máxima da árvore, incluindo ilimitada
-    - [ ] Visualização gráfica dos resultados
+- [x] **Decision Tree**
+    - [x] Variação de altura máxima da árvore, incluindo ilimitada
+    - [x] Visualização gráfica dos resultados
 - [ ] **SVM**
     - [ ] Avaliação dos Kernels
         - [ ] Linear
