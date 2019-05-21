@@ -5,3 +5,7 @@
 - https://stats.stackexchange.com/questions/180827/model-construction-when-to-shuffle-data-and-when-to-sort-it
 - https://scikit-learn.org/stable/modules/tree.html
 - https://stackoverflow.com/questions/2314850/help-understanding-cross-validation-and-decision-trees
+- https://stats.stackexchange.com/questions/57438/why-is-svm-not-so-good-as-decision-tree-on-the-same-data
+- https://stats.stackexchange.com/questions/287425/why-do-you-need-to-scale-data-in-knn
+- https://www.datacamp.com/community/tutorials/k-nearest-neighbor-classification-scikit-learn
+- https://stackoverflow.com/questions/22481854/plot-mean-and-standard-deviation

@@ -11,15 +11,15 @@ Serão explorados os seguintes métodos de classificação:
 - [x] **Decision Tree**
     - [x] Variação de altura máxima da árvore, incluindo ilimitada
     - [x] Visualização gráfica dos resultados
-- [ ] **SVM**
-    - [ ] Avaliação dos Kernels
-        - [ ] Linear
-        - [ ] Sigmoid
-        - [ ] Polinomial
-        - [ ] RBF
-- [ ] **k-NN**
-    - [ ] Variação do número de vizinhos *k*
-    - [ ] Visualização gráfica dos resultados
+- [x] **SVM**
+    - [x] Avaliação dos Kernels
+        - [x] Linear
+        - [x] Sigmoid
+        - [x] Polinomial
+        - [x] RBF
+- [x] **k-NN**
+    - [x] Variação do número de vizinhos *k*
+    - [x] Visualização gráfica dos resultados
 - [ ] **Random Forest**
     - [ ] Variação do número de árvores
     - [ ] Visualização gráfica dos resultados
