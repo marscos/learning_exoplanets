@@ -20,9 +20,9 @@ Serão explorados os seguintes métodos de classificação:
 - [x] **k-NN**
     - [x] Variação do número de vizinhos *k*
     - [x] Visualização gráfica dos resultados
-- [ ] **Random Forest**
-    - [ ] Variação do número de árvores
-    - [ ] Visualização gráfica dos resultados
+- [x] **Random Forest**
+    - [x] Variação do número de árvores
+    - [x] Visualização gráfica dos resultados
 - [ ] **Gradient Tree Boosting**
     - [ ] Variação do número de iterações
     - [ ] Visualização gráfica dos resultados

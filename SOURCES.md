@@ -9,3 +9,5 @@
 - https://stats.stackexchange.com/questions/287425/why-do-you-need-to-scale-data-in-knn
 - https://www.datacamp.com/community/tutorials/k-nearest-neighbor-classification-scikit-learn
 - https://stackoverflow.com/questions/22481854/plot-mean-and-standard-deviation
+- https://stats.stackexchange.com/questions/36165/does-the-optimal-number-of-trees-in-a-random-forest-depend-on-the-number-of-pred
+- https://lamfo-unb.github.io/2017/09/27/BaggingVsBoosting/
