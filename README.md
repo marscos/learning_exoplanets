@@ -23,6 +23,6 @@ Serão explorados os seguintes métodos de classificação:
 - [x] **Random Forest**
     - [x] Variação do número de árvores
     - [x] Visualização gráfica dos resultados
-- [ ] **Gradient Tree Boosting**
-    - [ ] Variação do número de iterações
-    - [ ] Visualização gráfica dos resultados
+- [x] **Gradient Tree Boosting**
+    - [x] Variação do número de iterações
+    - [x] Visualização gráfica dos resultados

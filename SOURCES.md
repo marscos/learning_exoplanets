@@ -11,3 +11,5 @@
 - https://stackoverflow.com/questions/22481854/plot-mean-and-standard-deviation
 - https://stats.stackexchange.com/questions/36165/does-the-optimal-number-of-trees-in-a-random-forest-depend-on-the-number-of-pred
 - https://lamfo-unb.github.io/2017/09/27/BaggingVsBoosting/
+- https://scikit-learn.org/stable/modules/ensemble.html#gradient-boosting
+- https://en.wikipedia.org/wiki/Gradient_boosting
